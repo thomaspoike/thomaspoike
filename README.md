@@ -5,7 +5,7 @@ I'm a student at Norwegian University of Science and Technology(NTNU), pursuing 
 ## Skills and Experience
 - Skilled in SystemVerilog, Verilog, VHDL, Chisel, UVM, STA, RTL development
 - Experience in DFT, DFD, Vivado, Quartus
-- Proficient in C, C++, Rust, Python, Ruby, TCL, BASH, MATLAB, Django, Git, Arduino microcontrollers, Raspberry Pi, Xilinx FPGAs, ESP32, FPGA boards, Linux Environment, Quality control, and testing
+- Proficient in C, C++, Rust, Python, Ruby, TCL, BASH, MATLAB, Django, Git, Arduino microcontrollers, Raspberry Pi, ESP32, FPGA boards, Linux Environment, Quality control, and testing
 - Experience in developing full-stack web applications using Django, Ruby on Rails and React
 - Strong problem-solving skills and ability to work well in a team environment
 - Experience in project management and event coordination
